@@ -1,0 +1,13 @@
+
+fastapi==0.115.14
+pydantic==2.11.7
+pydantic_core==2.33.2
+starlette==0.46.2
+fastapi
+uvicorn[standard]
+sentence-transformers
+scikit-learn
+joblib
+PyPDF2
+spacy
+pt_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.7.0/pt_core_news_sm-3.7.0.tar.gz
