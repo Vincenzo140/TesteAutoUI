@@ -4,7 +4,7 @@ import joblib
 from sentence_transformers import SentenceTransformer
 import PyPDF2
 from fastapi.middleware.cors import CORSMiddleware
-from utils import lemmatize, texts_lemmatizado
+from utils import lemmatize
 
 
 app = FastAPI()
