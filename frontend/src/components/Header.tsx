@@ -9,7 +9,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center h-16">
 
           <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-            Auto Email Classifier
+            Classificador Automático de E-mails
           </h1>
 
           <div className="flex items-center gap-4">

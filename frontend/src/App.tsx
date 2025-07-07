@@ -4,7 +4,6 @@ import FileUpload from './components/FileUpload';
 import LoadingSpinner from './components/LoadingSpinner';
 import Results from './components/Results';
 import Footer from './components/Footer';
-import { ThemeToggle } from './components/ThemeToggle';
 
 interface AnalysisResult {
   filename: string;
